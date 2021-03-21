@@ -7,5 +7,5 @@ importance to location-based applications. We proposed a new approach to tackle 
 the dead-reckoning algorithm for compressing a spatial component, and equal interval classification for reducing instantaneous
 speed and altitude attribute values
 
- https://da-rocket.github.io/GPS_data_compression/
+ https://da-rocket.github.io/GPS_data_compression/GPS_data_compression.pdf
 
